@@ -3,7 +3,7 @@
 # Armand Junior Dongmo Notue
 
 **GenAI / LLM Engineer · ML Engineer · Data Scientist**
-Arlington, TX (DFW) · US citizen, no sponsorship needed
+Arlington, TX (DFW) ·  no sponsorship needed
 
 I build and ship production LLM systems end-to-end: RAG pipelines with eval-driven quality loops, multi-agent platforms, and real-time inference APIs. 18 months of RLHF/SFT data work on frontier LLMs at Outlier (Scale AI). MS Data Science.
 
