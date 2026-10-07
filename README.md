@@ -14,7 +14,7 @@ My focus is turning AI prototypes into reliable products through agent orchestra
 
 ## 🚀 What I'm Building
 
-### IntelliCast AI — Personal News Agent
+### IntelliCast AI : Personal News Agent
 
 A personal news agent that follows evolving stories, checks claims across sources, learns what matters to each listener, and delivers personalized conversational voice briefings.
 
@@ -32,7 +32,7 @@ A personal news agent that follows evolving stories, checks claims across source
 
 ---
 
-### Atlas — Autonomous Multi-Agent AI Platform
+### Atlas : Autonomous Multi-Agent AI Platform
 
 Production-oriented multi-agent system built around **LangGraph** with parallel research agents, critic-driven self-correction, evaluation, and observability.
 
@@ -66,7 +66,7 @@ Production-oriented document intelligence service for asynchronous PDF/HTML inge
 
 ---
 
-### Real-Time Fraud Detection — Ensemble ML
+### Real-Time Fraud Detection : Ensemble ML
 
 Production-oriented fraud detection system combining **PyTorch Autoencoder + Isolation Forest + XGBoost** across 44 engineered features.
 
@@ -118,11 +118,11 @@ FastAPI · Docker · AWS · GitHub Actions · Langfuse · CI/CD · Prometheus ·
 
 ## 📌 Selected ML & Data Science Work
 
-- **E-Commerce Churn & CLV** — full-cycle analysis across 96,096 customers and 1.55M records; SQL, ML, RFM segmentation, and CLV modeling
-- **Recommendation Engine from Scratch** — five recommenders evaluated on 568K Amazon reviews
-- **Stock Forecasting: LSTM vs ARIMA** — leakage-safe time-series modeling across five major technology stocks
-- **Medical Insurance Premium Prediction** — interpretable regression modeling with CatBoost, Lasso, and SHAP
-- **Data Mining Mastery** — Apriori, K-Means, RFM, and anomaly detection across 1M+ retail transactions
+- **E-Commerce Churn & CLV** : full-cycle analysis across 96,096 customers and 1.55M records; SQL, ML, RFM segmentation, and CLV modeling
+- **Recommendation Engine from Scratch** : five recommenders evaluated on 568K Amazon reviews
+- **Stock Forecasting: LSTM vs ARIMA** : leakage-safe time-series modeling across five major technology stocks
+- **Medical Insurance Premium Prediction** : interpretable regression modeling with CatBoost, Lasso, and SHAP
+- **Data Mining Mastery** : Apriori, K-Means, RFM, and anomaly detection across 1M+ retail transactions
 
 ---
 
